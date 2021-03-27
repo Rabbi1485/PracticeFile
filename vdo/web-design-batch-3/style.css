@@ -1,0 +1,37 @@
+h1{
+	color: red;
+}
+
+p {
+	color: green;
+}
+
+img {
+	width: 300px;
+}
+.first-p {
+	color: yellow;
+	font-size: 30px;
+}
+
+ol li {
+	color: red;
+}
+
+ul li {
+	color:green;
+}
+
+.menu {
+	background: black;
+	overflow: hidden;
+	text-align:center;
+}
+
+.menu li {
+	list-style: none;
+	float: left;
+	padding: 10px;
+	color: white;
+}
+

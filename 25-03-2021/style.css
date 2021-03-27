@@ -1,0 +1,15 @@
+/*p{
+	letter-spacing:20px;
+}*/
+a{
+	text-decoration :none;
+	color:orange;
+	font-family :"Times New Roman", Times, serif;
+	font-weight: 700;
+}
+.first_p{
+	text-align:center;
+}
+.second-p{
+	letter-spacing:10px;
+}
